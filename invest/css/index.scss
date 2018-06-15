@@ -1,0 +1,15 @@
+@charset "UTF-8";
+html,body,div,h1,h2,h3,h4,h5,h6,dl,dt,dd,ul,li,a,p,span,form,fieldset,legend,label,input{
+  margin:0;
+  padding:0;
+}
+body,ul{
+  -webkit-overflow-scrolling: touch;
+}
+ul li{
+  list-style:none;
+}
+img{
+  display: block;
+  width:100%;
+}
